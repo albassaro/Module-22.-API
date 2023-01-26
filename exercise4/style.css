@@ -1,0 +1,8 @@
+.btn{
+    width: fit-content;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 10px;
+}

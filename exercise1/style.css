@@ -1,0 +1,18 @@
+.flags{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 10px auto;
+}
+
+.header{
+    text-align: center;
+}
+
+.flag__title{
+    text-align: center;
+}
+
+.flag__container{
+    margin: 20px;
+}

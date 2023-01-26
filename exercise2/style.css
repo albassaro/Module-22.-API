@@ -1,0 +1,26 @@
+.header{
+    text-align: center;
+}
+
+.btn{
+    width: fit-content;
+    display: flex;
+    justify-content: space-around;
+    margin: 50px auto;
+}
+
+.btn__icon-one{
+    margin: 10px;
+}
+
+.btn__icon-two{
+    margin: 10px;
+}
+
+.btn__text{
+    margin: 10px;
+}
+
+.btn__icon--hide{
+    display: none;
+}
